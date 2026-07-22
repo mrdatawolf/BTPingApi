@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm audit *)",
+      "Bash(rm -rf data dist client/dist)",
+      "Bash(npm run *)"
+    ]
+  }
+}
